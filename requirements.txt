@@ -1,0 +1,29 @@
+# Core LangChain packages
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.20
+langchain-core>=0.1.23
+
+# Vector stores
+faiss-cpu>=1.7.4
+chromadb>=0.4.22
+
+# Document loaders
+pypdf>=4.0.0
+python-docx>=1.1.0
+
+# Text processing
+tiktoken>=0.5.2
+
+# OpenAI
+openai>=1.10.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Streamlit (for chat apps)
+streamlit>=1.31.0
+
+# Utilities
+numpy>=1.24.0
+requests>=2.31.0
